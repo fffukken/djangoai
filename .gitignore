@@ -1,0 +1,5 @@
+car/*
+motorbike/*
+imagefiles.npy
+imagefiles_224.npy
+vgg16_transfer.h5
